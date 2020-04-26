@@ -1,0 +1,5 @@
+.idea/
+venv/
+.env
+backend/blog/__pycache__/
+backend/sensive_blog/__pycache__/
