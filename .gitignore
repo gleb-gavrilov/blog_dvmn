@@ -3,3 +3,4 @@ venv/
 .env
 backend/blog/__pycache__/
 backend/sensive_blog/__pycache__/
+*.sqlite3
